@@ -1,0 +1,70 @@
+{
+  "sites": [
+    {
+      "siteName": "部门主页",
+      "url": "http://10.20.18.148/site",
+      "imgUrl": "images/site.png",
+      "tag": ["开发", "运营", "测试", "产品"]
+    },
+    {
+      "siteName": "Wiki",
+      "url": "http://10.20.18.148/wiki",
+      "imgUrl": "images/wiki.png",
+      "tag": ["开发"]
+    },
+    {
+      "siteName": "百宝箱",
+      "url": "http://10.20.18.148/desktop",
+      "imgUrl": "images/treasure-box.png",
+      "tag": ["开发", "运营", "测试", "产品"]
+    },
+    {
+      "siteName": "相册",
+      "url": "http://10.20.18.148/photoshow",
+      "imgUrl": "images/photos.png",
+      "tag": ["开发", "运营", "测试", "产品"]
+    },
+    {
+      "siteName": "壹瓴阁论坛",
+      "url": "http://139.196.14.76",
+      "imgUrl": "images/bbs.png",
+      "tag": ["开发", "运营", "测试", "产品"]
+    },
+    {
+      "siteName": "F项目论坛",
+      "url": "http://10.20.18.148/bbs",
+      "imgUrl": "images/bbs-f.png",
+      "tag": ["开发", "运营", "测试", "产品"]
+    },
+    {
+      "siteName": "任意门日志分析平台",
+      "url": "http://139.196.14.76:8121/logparser",
+      "imgUrl": "images/log-analysis.png",
+      "tag": ["开发"]
+    },
+    {
+      "siteName": "F项目APP构建站",
+      "url": "http://10.180.152.51/getapp/fproject.html",
+      "imgUrl": "images/app-build.png",
+      "tag": ["开发", "测试"]
+    },
+    {
+      "siteName": "bug管理系统",
+      "url": "http://10.20.8.146/redmine/",
+      "imgUrl": "images/bug-manage.png",
+      "tag": ["开发", "测试"]
+    },
+    {
+      "siteName": "云测试平台",
+      "url": "http://10.180.152.51:16861/carownertest/v2/index.html",
+      "imgUrl": "images/cloud-test.png",
+      "tag": ["测试"]
+    },
+    {
+      "siteName": "金科大白",
+      "url": "",
+      "imgUrl": "images/manager.png",
+      "tag": ["开发", "运营", "测试", "产品"]
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+#content-inner {
+  margin-left: 0;
+}
+.article-container {
+  float: right;
+  width: 1000px;
+}
+#sidebar {
+  width: 150px;
+  float: left;
+  display: block;
+  position: absolute;
+  margin-left: 0;
+  padding-left: 0;
+  top: 0;
+  left: 0;
+}
+.article-inner {
+  float: left;
+  margin-left: 50px;
+  margin-right: 0;
+}
+.article {
+  width: 800px;
+  height: auto;
+  display: table;
+}
+#article-toc {
+  display: none;
+  margin-right: 0;
+}
+.article-header .article-title .article-content .article-footer .article-footer-updated {
+  float: left;
+}
+img {
+  max-width: 800px;
+  max-height: 700px;
+}
+.uk-switcher li {
+  display: none;
+}
+.uk-icon-button:hover .uk-icon-button:focus {
+  color: #999;
+}
+.uk-icon-button:active {
+  background-color: #f60;
+  color: #fff;
+}

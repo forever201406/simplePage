@@ -1,0 +1,64 @@
+.uk-nav-offcanvas > li > a {
+  color: #ffffff;
+  padding: 10px 30px;
+}
+.uk-nav-offcanvas > .uk-open > a,
+html:not(.uk-touch) .uk-nav-offcanvas > li > a:hover,
+html:not(.uk-touch) .uk-nav-offcanvas > li > a:focus {
+  background: #171f26;
+  color: #ff6600;
+}
+html .uk-nav.uk-nav-offcanvas > li.uk-active > a {
+  color: #ff6600;
+}
+.uk-navbar {
+  background: #171f26;
+  color: #ffffff;
+}
+.uk-navbar-nav > li > a {
+  color: #ffffff;
+}
+.uk-navbar-nav > li:hover > a,
+.uk-navbar-nav > li > a:focus,
+.uk-navbar-nav > li.uk-open > a {
+  background-color: #171f26;
+  color: #ff6600;
+}
+.uk-navbar-nav > li.uk-active > a {
+  background-color: #171f26;
+  color: #ff6600;
+}
+.uk-navbar-brand {
+  color: #ffffff;
+}
+.uk-navbar-brand:hover,
+.uk-navbar-brand:focus {
+  color: #ff6600;
+}
+.uk-navbar-toggle {
+  color: #ffffff;
+}
+.uk-navbar-toggle:hover,
+.uk-navbar-toggle:focus {
+  color: #ff6600;
+}
+.uk-offcanvas-bar {
+  background: #171f26;
+  width: 200px;
+}
+.uk-offcanvas .uk-panel a:not([class]) {
+  color: #ffffff;
+}
+.uk-offcanvas .uk-panel a:not([class]):hover {
+  color: #ff6600;
+}
+.uk-offcanvas .uk-panel-title {
+  color: #ffffff;
+}
+.uk-panel:before,
+.uk-panel:after {
+  display: inline;
+}
+.uk-icon-button:active {
+  background-color: #ff6600;
+}
